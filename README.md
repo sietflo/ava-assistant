@@ -34,8 +34,3 @@ To interact with the assistant, wait for the voice trigger and use one of the fo
 * **Data Automation:** `json`, `subprocess`, `threading`
 
 ---
-
-## 📈 Lessons Learned & Architectural Reflections
-Looking back at this project, this repository taught me several critical concepts:
-1. **The Need for Asynchrony:** Managing blocking I/O (microphone input and cloud API calls) within a UI loop highlighted the necessity of true async/await architectures.
-2. **State Management:** Hand-crafting component updates in a monolithic script proved why decoupling backend logic from the presentation layer (UI) is vital for scalability.
