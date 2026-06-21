@@ -6,9 +6,10 @@ Ava is an intelligent desktop virtual assistant developed mid 2024. It combines 
 *Note: This project represents an early milestone in my software engineering journey. While the codebase is monolithic and serves as a historical academic artifact, it successfully demonstrates end-to-end integration of audio pipelines and generative AI. This project sparked my interest in Data Science and Machine Learning.*
 
 ---
-<p align="center">
+
+<div style="text-align: center;">
   <img src="your-image-url.png" alt="Centered Image">
-</p>
+</div>
 
 ---
 
