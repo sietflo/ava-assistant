@@ -1,5 +1,6 @@
 
 
+
 # Ava — AI-Powered Desktop Voice Assistant (College Diploma Project)
 
 Ava is an intelligent desktop virtual assistant developed mid 2024. It combines local Natural Language Processing (NLP), Text-to-Speech (TTS), and Speech-to-Text (STT) capabilities with Large Language Model (LLM) processing to provide an interactive, voice-controlled user experience.
@@ -30,6 +31,10 @@ To interact with the assistant, wait for the voice trigger and use one of the fo
 
 ### 🧠 After the wake word "GPT":
 1. **"[Your open-ended question]"** — The assistant activates the conversational pipeline, routes the prompt directly to the OpenAI API (`GPT-3.5-Turbo`), and utilizes TTS to speak the response back contextually.
+
+---
+
+<img width="1044" height="589" alt="Screenshot_5" src="https://github.com/user-attachments/assets/3d87fe55-97e4-4410-9f06-de355d7e3ec4" />
 
 ---
 
