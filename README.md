@@ -1,4 +1,5 @@
 
+
 # Ava — AI-Powered Desktop Voice Assistant (College Diploma Project)
 
 Ava is an intelligent desktop virtual assistant developed mid 2024. It combines local Natural Language Processing (NLP), Text-to-Speech (TTS), and Speech-to-Text (STT) capabilities with Large Language Model (LLM) processing to provide an interactive, voice-controlled user experience.
@@ -8,7 +9,7 @@ Ava is an intelligent desktop virtual assistant developed mid 2024. It combines 
 ---
 
 <p align="center">
-  <img width="529" height="228" alt="Screenshot_4" src="https://github.com/user-attachments/assets/cd8f4749-5f93-45a4-9713-958cf594bd6a">
+  <img width="529" height="228" alt="Screenshot_4" src="https://github.com/user-attachments/assets/cd8f4749-5f93-45a4-9713-958cf594bd6a" />
 </p>
 
 
