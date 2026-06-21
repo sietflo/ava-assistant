@@ -7,9 +7,10 @@ Ava is an intelligent desktop virtual assistant developed mid 2024. It combines 
 
 ---
 
-<div style="text-align: center;">
-  <img src="your-image-url.png" alt="Centered Image">
-</div>
+<p align="center">
+  <img width="529" height="228" alt="Screenshot_4" src="https://github.com/user-attachments/assets/cd8f4749-5f93-45a4-9713-958cf594bd6a">
+</p>
+
 
 ---
 
